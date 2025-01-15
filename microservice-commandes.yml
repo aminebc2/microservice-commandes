@@ -15,4 +15,4 @@ server:
 
 
 mes-config-ms:
-  commandes-last: 2
+  commandes-last: 10
